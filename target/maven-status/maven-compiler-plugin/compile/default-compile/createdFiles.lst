@@ -1,0 +1,11 @@
+com\apps\tools\segmentation\finder\intervalTree\IntervalNode.class
+com\apps\tools\segmentation\finder\handlers\BaseAggregator.class
+com\apps\tools\segmentation\finder\App.class
+com\apps\tools\segmentation\finder\handlers\FileWriter.class
+com\apps\tools\segmentation\finder\intervalTree\IntervalTreeBuilder.class
+com\apps\tools\segmentation\finder\handlers\LatchFileReader.class
+com\apps\tools\segmentation\finder\handlers\FileReader.class
+com\apps\tools\segmentation\finder\domains\Constants.class
+com\apps\tools\segmentation\finder\domains\Interval.class
+com\apps\tools\segmentation\finder\handlers\RangesAggregator.class
+com\apps\tools\segmentation\finder\handlers\TransactionsAggregator.class
